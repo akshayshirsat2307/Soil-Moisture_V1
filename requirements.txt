@@ -1,0 +1,4 @@
+earthengine-api
+google-auth
+google-auth-httplib2
+google-cloud-storage
